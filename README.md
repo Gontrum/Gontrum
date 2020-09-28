@@ -11,6 +11,8 @@ I work best with teams that share this mindset, with people with whom I can lear
 - Read more about me at <a href="https://gontrum.dev">gontrum.dev</a>
 - #followme on <a href="https://twitter.com/davidgontrum">twitter</a>
 
+[![image](https://imgs.xkcd.com/comics/real_programmers.png)](https://imgs.xkcd.com/comics/real_programmers.png)
+
 <!--
 **Gontrum/Gontrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
