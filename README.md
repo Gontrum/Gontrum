@@ -1,7 +1,5 @@
 # Hi there, I'm David 🦧
 
----
-
 I am David, and I develop software. Mainly I work in the JVM and static typed. But I also like TypeScript a lot.  
 Whether I use an object-oriented or more functional approach depends on the application domain and other factors.  
 My mindset is agile. I would like to develop software in its entirety. Test and Behaviour Driven Development are the tools of my choice.  
